@@ -1,0 +1,24 @@
+.frm-width-1{
+    position: relative;
+    height: 2.8rem;
+    width: 21rem;
+    border: none;
+    border-radius: 30px !important;
+    padding: 5px;
+    padding-left: 15px;
+}
+.frm-width-btn-1{
+    position: absolute;
+    right: 0.3rem;
+    margin-top: -2.69rem;
+    height: 2.5rem;
+    width: 3rem;
+    border: none;
+    border-radius: 19px;
+    padding: 5px;
+    background-color: green;
+    color: #fff;
+}
+.nav-link{
+    color: #fff;
+}

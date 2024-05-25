@@ -1,0 +1,240 @@
+a.dropdown-toggle {
+    text-decoration: none;
+    color: #fff;
+}
+
+.img-sec1:hover{
+    transform: scale(1.2);
+    cursor: pointer;
+
+}
+
+.frm-width{
+    display: flex;
+    position: relative;
+    height: 2.8rem;
+    width: 20rem;
+    border: none;
+    border-radius: 30px !important;
+    padding: 5px;
+    padding-left: 20px;
+}
+.frm-width-btn{
+    position: absolute;
+    right: 0.1rem;
+    margin-top: -2.7rem;
+    height: 2.5rem;
+    width: 3rem;
+    border: none;
+    border-radius: 30px;
+    padding: 5px;
+    background-color: green;
+    color: #fff;
+}
+.inline{
+    display: flex;
+    list-style: none;
+}
+.clr-sky{
+    color: #197491;
+}
+.bkg-sky{
+    background-color: #197491;
+}
+.clr-white li a{
+    color: #fff;
+}
+a {
+    color: #0d6efd;
+    text-decoration: none;
+}
+.bkg-1{
+    background-image: url('../Med-Images/med-1.avif');
+    background-size:cover ;
+    background-repeat:no-repeat ;
+    height: 500px;
+}
+.bkg-2{
+    background-image: url('../Med-Images/med-3.avif');
+    background-size:cover ;
+    background-repeat:no-repeat ;
+    height: 500px;
+}
+.bkg-3{
+    background-image: url('../Med-Images/med-2.avif');
+    background-size:cover ;
+    background-repeat:no-repeat ;
+    height: 500px;
+    
+}
+.radious{
+    border-radius:40px ;
+}
+#grad1{  
+    background-image: linear-gradient(to right, #4FAD20 ,#A1C83B);
+    border-radius: 20px;
+}
+#grad2{  
+    background-image: linear-gradient(to right,#197491 ,#B1EEEB);
+    border-radius: 20px;
+}
+#grad3{  
+    background-image: linear-gradient(to right, #A71D7D ,#EC6381);
+    border-radius: 20px;
+}
+#grad4{  
+    background-image: linear-gradient(to right, #A71D7D ,#EC6381);
+    border-radius: 5px;
+}
+
+.card-img-top{
+   height:250px;
+   width: auto;
+   size: cover;
+   padding: 20px;
+}
+.sec4-img{
+    background-image: url('../Med-Images/med-2.avif');
+    background-size:cover ;
+    background-repeat: no-repeat;
+    background-position: center;
+    object-fit: cover;  
+}
+.banner{
+    background-image: url('../Med-Images/med-2.avif');
+    background-size:cover ;
+    background-repeat: no-repeat;
+  
+}
+.allign {
+    height: 300px ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sec5-img{
+    object-fit: cover;
+    position: relative;
+    object-fit: contain;
+    height: 120px;
+    width: auto;
+}
+.space{
+    margin-top: 100px; 
+}
+.bkg-smoke{
+    background-color: whitesmoke;
+}
+.bkg-white{
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+ul li{
+    list-style: none;
+}
+.numbers p{
+    display: flex;
+    font-size: 20px;
+}
+.num1 {
+    text-align: center;
+    width: 30px;
+    height: 30px;
+    border: 2px solid #4bd7b8;
+    border-style: solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+}
+.num2 {
+    text-align: center;
+    width: 30px;
+    height: 30px;
+    border: 2px solid #E18CCB;
+    border-style: solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+}
+.num3 {
+    text-align: center;
+    width: 30px;
+    height: 30px;
+    border: 2px solid red;
+    border-style: solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+}
+.arrow{
+    background-color: #197491;
+    width: 20px;
+    height: 20px;
+    border-radius: 50px;
+    color: white;
+    padding: 5px;
+}
+.crd-rad{
+    border-radius: 10px;
+}
+.form-btn{
+    position: relative;
+    display: flex;
+    border-radius: 30px;
+    border: 0;
+    background-color: #fff;
+    overflow: hidden;
+}
+.form-btn input[type=email] {
+    border: none;
+    background: #fff;
+    font-size: .875rem;
+    height: 50px;
+    padding: .64rem 1.7rem;
+    letter-spacing: -.5px;
+}
+.form-btn button[type=submit] {
+    position: absolute;
+    right: 0;
+    height: 46px;
+    padding: .532rem 2.2rem;
+    font-size: .75rem;
+    border: none;
+    border-radius: 30px;
+    background-color: #197491;
+    color: #fff;
+    /* margin-left: 275px;   */
+}
+
+ul li a{
+    color:green;
+}
+.frm-width-1{
+    position: relative;
+    height: 2.8rem;
+    width: 21rem;
+    border: none;
+    border-radius: 30px !important;
+    padding: 5px;
+    padding-left: 15px;
+}
+.frm-width-btn-1{
+    position: absolute;
+    right: 0.3rem;
+    margin-top: -2.69rem;
+    height: 2.5rem;
+    width: 3rem;
+    border: none;
+    border-radius: 19px;
+    padding: 5px;
+    background-color: green;
+    color: #fff;
+}
+.nav-link{
+    color: #fff;
+}

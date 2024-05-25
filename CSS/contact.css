@@ -1,0 +1,26 @@
+.con-img{
+    background-image: linear-gradient(#1a5f6da8, #ffffff9e), url('../Med-Images/lab-img.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.c-icon{
+    font-size: 50px;
+    color: #24AEB1;
+}
+.form-1{
+    height: 50px;
+    width: 400px;
+    border-radius: 10px;
+}
+.btn{
+    border-radius: 10px;
+    background-color: #24AEB1;
+    color: white;
+    border: none;
+    width: 150px;
+}
